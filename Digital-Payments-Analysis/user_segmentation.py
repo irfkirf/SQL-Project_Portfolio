@@ -5,8 +5,8 @@ User Segmentation Module
 Implements RFM (Recency, Frequency, Monetary) analysis and behavioral
 segmentation for digital payment users.
 
-Author: Your Name
-Date: 2025-01-27
+Author: Irfan Khan
+Date: 2025-10-24
 """
 
 import pandas as pd
