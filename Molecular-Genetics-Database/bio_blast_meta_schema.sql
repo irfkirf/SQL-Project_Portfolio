@@ -1,6 +1,6 @@
 -- ====================================================================
 -- Bioinformatics BLAST/tBLASTn Pipeline Metadata DB (MySQL 8.0+)
--- Author: Your Name (replace before committing)
+-- Author: Irfan Khan
 -- License: MIT (or your preferred license)
 -- Created: 2025-09-28
 -- ====================================================================
