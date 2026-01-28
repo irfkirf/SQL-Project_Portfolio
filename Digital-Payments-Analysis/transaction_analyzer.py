@@ -5,8 +5,8 @@ Transaction Analysis Module
 Core functionality for analyzing digital payment transaction data.
 Includes adoption metrics, trend analysis, and channel performance evaluation.
 
-Author: Your Name
-Date: 2025-01-27
+Author: Irfan Khan
+Date: 2025-10-21
 """
 
 import pandas as pd
