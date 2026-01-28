@@ -290,8 +290,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+**Irfan Khan - Data Science B.S. at UNC Charlotte**  
+[LinkedIn](https://www.linkedin.com/in/irfan-khan-4a946a255/) | [Email](mailto:irfan.r.khan2005@gmail.com)
 
 ## Acknowledgments
 
