@@ -1,6 +1,6 @@
 # Bioinformatics BLAST Pipeline Metadata System
 
-A production-ready MySQL database schema designed to support end-to-end BLAST/tBLASTn bioinformatics pipelines with comprehensive metadata tracking, reproducibility controls, and audit capabilities.
+A MySQL database schema designed to support end-to-end BLAST/tBLASTn bioinformatics pipelines with comprehensive metadata tracking, reproducibility controls, and audit capabilities.
 
 ## Overview
 
@@ -177,13 +177,6 @@ SELECT * FROM v_qc_failures WHERE entity_type = 'BLAST_RUN';
 - **Trend Analysis**: Time-series data on run performance and organism distribution
 - **Quality Metrics**: Built-in QC framework for data quality assessment
 
-## Technical Specifications
-
-- **Database Engine**: InnoDB for ACID compliance and foreign key support
-- **Character Set**: UTF-8 MB4 for full Unicode support
-- **Timezone**: UTC for consistent temporal data
-- **MySQL Version**: 8.0+ required for JSON functions and advanced view features
-
 ## Future Enhancements
 
 Potential extensions to consider:
@@ -203,12 +196,12 @@ Contributions are welcome! Please consider:
 
 ## License
 
-MIT License - See LICENSE file for details
+MIT License
 
 ## Author
 
-**Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+**Irfan Khan - Data Science B.S. at UNC Charlotte**  
+[LinkedIn](https://www.linkedin.com/in/irfan-khan-4a946a255/) | [Email](mailto:irfan.r.khan2005@gmail.com)
 
 ## Acknowledgments
 
