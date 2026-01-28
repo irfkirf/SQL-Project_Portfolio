@@ -6,8 +6,8 @@
 -- data, user behavior, and channel performance.
 --
 -- Database: PostgreSQL 12+ or MySQL 8.0+
--- Author: Your Name
--- Date: 2025-01-27
+-- Author: Irfan Khan
+-- Date: 2025-10-22
 -- ====================================================================
 
 -- --------------------------------------------------------------------
